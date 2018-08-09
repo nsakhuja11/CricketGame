@@ -1,0 +1,10 @@
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\CricketGame.dll
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\CricketGame.pdb
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.dll
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\System.ValueTuple.dll
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.pdb
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.xml
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\bin\Debug\System.ValueTuple.xml
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.dll
+c:\users\nsakhuja\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.pdb
